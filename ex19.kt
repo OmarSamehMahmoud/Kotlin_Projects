@@ -1,6 +1,6 @@
 fun main(args: Array<String>){
   println("Enter Name:")
-  var x:Int=readLine()!!
+  var x:String=readLine()!!
   when(x){
     "Omar" -> {
       println("Omar")
