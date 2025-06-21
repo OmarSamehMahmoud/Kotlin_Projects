@@ -1,5 +1,5 @@
 fun main(args: Array<String>){
-  var x:String="Omar"
+  var x:String="OmarSameh"
   println("Str1: "+x.plus(" Hello"))
   println("Str2: "+x.equals("Welcome"))
   println("Str3: "+x.count())
